@@ -50,10 +50,10 @@ This is a web based application developed for health related based website in in
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML-60.2%
-- CSS-20.9%
+- HTML=60.2%
+- CSS=26.9%
 - Bootstrap
-- JavaScript
+- JavaScript=12.9%
 
 It’s important to add screenshots, project link, and azure technologies in readme file.
 Leave a Reply
